@@ -68,8 +68,6 @@
     <img align="center" alt="scrapy" src="https://img.shields.io/badge/Scrapy-9E1B32?style=for-the-badge&logo=scrapy&logoColor=white" />
     <img align="center" alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
     <img align="center" alt="github-actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-    <img align="center" alt="crawler" src="https://img.shields.io/badge/Crawler-FF5733?style=for-the-badge&logo=robot&logoColor=white" />
-    <img align="center" alt="scraper" src="https://img.shields.io/badge/Scraper-FF5733?style=for-the-badge&logo=robot&logoColor=white" />
   </div>
 </div>
 <br/>
