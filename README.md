@@ -1,5 +1,4 @@
 ## Hello, World! 🖐
-## Software Engineer 
 
 ### Contacts
 
