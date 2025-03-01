@@ -65,7 +65,6 @@
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
     <img align="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-    <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white" />
     <img align="center" alt="kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
     <img align="center" alt="puppeteer" src="https://img.shields.io/badge/Puppeteer-00B0FF?style=for-the-badge&logo=puppeteer&logoColor=white" />
     <img align="center" alt="selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
