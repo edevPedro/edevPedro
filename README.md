@@ -1,5 +1,4 @@
-## Hello, World! 🖐️
-I am a Software Engineer / Data Engineer
+## Hello, World! 🖐 I am a Software/Data Engineer 
 
 ### Contacts
 
