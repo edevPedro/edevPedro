@@ -1,4 +1,5 @@
-## Hello, World! 🖐 I am a Software/Data Engineer 
+## Hello, World! 🖐
+## Software/Data Engineer 
 
 ### Contacts
 
@@ -25,7 +26,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlgonzaga/mlgonzaga/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mlgonzaga/mlgonzaga/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mlgonzaga/mlgonzaga/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edevpedro/mlgonzaga/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edevpedro/mlgonzaga/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edevpedro/mlgonzaga/output/github-contribution-grid-snake.svg">
 </picture>
