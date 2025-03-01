@@ -19,9 +19,6 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; text-align: center; font-family: Arial, sans-serif;">
   
   <!-- Languages -->
- <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; text-align: center; font-family: Arial, sans-serif;">
-  
-  <!-- Languages -->
   <div style="display: flex; flex-direction: column; align-items: center;">
     <h3 style="width: 100%; color: #ffffff; background-color: #000000; padding: 5px; margin-bottom: 10px;">Languages</h3>
     <img align="center" alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -43,6 +40,12 @@
     <h3 style="width: 100%; color: #ffffff; background-color: #000000; padding: 5px; margin-bottom: 10px;">Frontend</h3>
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </div>
+  
+  <!-- Mobile -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <h3 style="width: 100%; color: #ffffff; background-color: #000000; padding: 5px; margin-bottom: 10px;">Mobile</h3>
+    <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </div>
   
   <!-- Databases -->
@@ -69,7 +72,6 @@
   </div>
 </div>
 <br/>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edevPedro/edevPedro/output/github-contribution-grid-snake-dark.svg">
