@@ -24,7 +24,7 @@
     <img align="center" alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </div>
   
   <!-- Backend -->
@@ -61,7 +61,7 @@
   <!-- Technologies -->
   <div style="display: flex; flex-direction: column; align-items: center;">
     <h3 style="width: 100%; color: #ffffff; background-color: #000000; padding: 5px; margin-bottom: 10px;">Technologies</h3>
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&background-color=%23373531" />
+    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center" alt="kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
     <img align="center" alt="puppeteer" src="https://img.shields.io/badge/Puppeteer-00B0FF?style=for-the-badge&logo=puppeteer&logoColor=white" />
     <img align="center" alt="selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
