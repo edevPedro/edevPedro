@@ -18,9 +18,6 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; text-align: center; font-family: Arial, sans-serif;">
   
   <!-- Languages -->
- <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; text-align: center; font-family: Arial, sans-serif;">
-  
-  <!-- Languages -->
   <div style="display: flex; flex-direction: column; align-items: center;">
     <h3 style="width: 100%; color: #ffffff; background-color: #000000; padding: 5px; margin-bottom: 10px;">Languages</h3>
     <img align="center" alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -64,12 +61,15 @@
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
     <img align="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+    <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white" />
     <img align="center" alt="kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
     <img align="center" alt="puppeteer" src="https://img.shields.io/badge/Puppeteer-00B0FF?style=for-the-badge&logo=puppeteer&logoColor=white" />
     <img align="center" alt="selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
     <img align="center" alt="scrapy" src="https://img.shields.io/badge/Scrapy-9E1B32?style=for-the-badge&logo=scrapy&logoColor=white" />
     <img align="center" alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
     <img align="center" alt="github-actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+    <img align="center" alt="crawler" src="https://img.shields.io/badge/Crawler-FF5733?style=for-the-badge&logo=robot&logoColor=white" />
+    <img align="center" alt="scraper" src="https://img.shields.io/badge/Scraper-FF5733?style=for-the-badge&logo=robot&logoColor=white" />
   </div>
 </div>
 <br/>
