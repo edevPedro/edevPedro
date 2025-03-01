@@ -19,6 +19,9 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; text-align: center; font-family: Arial, sans-serif;">
   
   <!-- Languages -->
+ <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; text-align: center; font-family: Arial, sans-serif;">
+  
+  <!-- Languages -->
   <div style="display: flex; flex-direction: column; align-items: center;">
     <h3 style="width: 100%; color: #ffffff; background-color: #000000; padding: 5px; margin-bottom: 10px;">Languages</h3>
     <img align="center" alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
