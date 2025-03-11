@@ -45,6 +45,7 @@
     <h3 style="width: 100%; color: #ffffff; background-color: #000000; padding: 5px; margin-bottom: 10px;">Frontend</h3>
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img align="center" alt="angular" src="https://img.shields.io/badge/Vue-63B984?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   </div>
   
   <!-- Mobile -->
