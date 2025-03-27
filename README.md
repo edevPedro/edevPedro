@@ -58,7 +58,6 @@
     <img align="center" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003B57?style=for-the-badge&logo=mariadb&logoColor=white" />
   </div>
 
-  <!-- Technologies -->
   <div style="display: flex; flex-direction: column; align-items: center;">
     <h3 style="width: 100%; color: #ffffff; background-color: #000000; padding: 5px; margin-bottom: 10px;">Technologies</h3>
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
