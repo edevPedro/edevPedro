@@ -10,7 +10,6 @@
 
 <div style="display: inline_block">
 
-  <img align="center" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=edevPedro&show_icons=true&theme=darcula"  width="400" height="200" /> 
   <img align="center" alt="most_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edevPedro&theme=darcula&layout=compact" width="410" height="170"/>
 
 </div>
