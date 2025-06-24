@@ -3,7 +3,7 @@
 
 </br>
 
-## Top-notch Technologies
+## my top-notch technologies
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; text-align: center; font-family: Arial, sans-serif;">
   
   <!-- Languages -->
