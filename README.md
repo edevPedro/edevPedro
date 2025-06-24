@@ -3,17 +3,6 @@
 
 </br>
 
-### Contacts
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-elias-817298243/)
-<!-- [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.DEV&logoColor=white)](https://edevs.com.br) -->
-
-<div style="display: inline_block">
-
-  <img align="center" alt="most_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edevPedro&theme=darcula&layout=compact" width="410" height="170"/>
-
-</div>
-
 ## Top-notch Technologies
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; text-align: center; font-family: Arial, sans-serif;">
   
