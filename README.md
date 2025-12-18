@@ -4,8 +4,8 @@
 ---
 
 ### 👨‍💻 About me
-Software Developer focused on **backend and cloud-native applications**, with experience in **enterprise systems, APIs, and scalable architectures**.  
-Comfortable working with **modern Java ecosystems**, cloud platforms, and distributed systems.
+Fullstack Software Developer with experience in **enterprise systems, APIs, and scalable architectures**.  
+Comfortable working with **modern ecosystems**, cloud platforms, and distributed systems.
 
 ---
 
