@@ -85,6 +85,7 @@ Fullstack Developer with experience in **enterprise systems, APIs, and scalable 
     <img align="center" alt="most_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edevPedro&theme=darcula&layout=compact" width="410" height="170"/>
 </div>
 
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edevPedro&label=Profile%20views&color=0e75b6&style=flat-square&color=green" />
 </p>
