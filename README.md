@@ -88,7 +88,3 @@ Fullstack Developer with experience in **enterprise systems, APIs, and scalable 
 - 📧 Reach me via **LinkedIn or email**
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edevPedro&label=Profile%20views&color=0e75b6&style=flat-square&color=green" />
-</p>
