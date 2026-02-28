@@ -15,7 +15,6 @@ Fullstack Developer & **AI Engineer** with experience in **enterprise systems, A
   <img src="https://img.shields.io/badge/NestJS-B16286?style=flat&logo=nestjs&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
   <img src="https://img.shields.io/badge/FastAPI-689D6A?style=flat&logo=fastapi&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
   <img src="https://img.shields.io/badge/Flask-282828?style=flat&logo=flask&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
 </div>
 
 ---
@@ -27,6 +26,8 @@ Fullstack Developer & **AI Engineer** with experience in **enterprise systems, A
   <img src="https://img.shields.io/badge/Terraform-B16286?style=flat&logo=terraform&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
   <img src="https://img.shields.io/badge/GitHub_Actions-458588?style=flat&logo=github-actions&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
   <img src="https://img.shields.io/badge/Linux-D79921?style=flat&logo=linux&logoColor=282828" style="border-radius:6px; height:28px;">
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
+
 </div>
 
 ---
