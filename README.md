@@ -6,6 +6,8 @@
 ### 👨‍💻 About me
 Fullstack Developer with experience in **enterprise systems, APIs, and scalable architectures**.  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edevpedro&size_weight=0.5&count_weight=0.5)
+
 ## 🧩 Languages
 <div align="center">
 
@@ -14,6 +16,8 @@ Fullstack Developer with experience in **enterprise systems, APIs, and scalable 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-CCA300?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=cpp&logoColor=purple"/>
+
 
 </div>
 
