@@ -79,6 +79,12 @@ Fullstack Developer & **AI Engineer** with experience in **enterprise systems, A
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edevpedro/edevpedro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edevpedro/edevoedri/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edevpedro/edevpedro/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 📫 Contact & Availability
 - 🌍 Open to **international opportunities**  
 - 💼 Backend / Full-Stack / ML / AI Engineer roles  
