@@ -12,9 +12,9 @@ Fullstack Developer & **AI Engineer** with experience in **enterprise systems, A
 <div align="center" style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center;">
   <img src="https://img.shields.io/badge/Go-83A598?style=flat&logo=go&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
   <img src="https://img.shields.io/badge/Node.js-8EC07C?style=flat&logo=node.js&logoColor=282828" style="border-radius:6px; height:28px;">
-  <img src="https://img.shields.io/badge/NestJS-B16286?style=flat&logo=nestjs&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
-  <img src="https://img.shields.io/badge/FastAPI-689D6A?style=flat&logo=fastapi&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
-  <img src="https://img.shields.io/badge/Flask-282828?style=flat&logo=flask&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
+  <img src="https://img.shields.io/badge/Python-458588?style=flat&logo=python&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
+  <img src="https://img.shields.io/badge/C-7C6F64?style=flat&logo=c&logoColor=FBF1C7" style="border-radius:6px; height:28px;">  
+  <img src="https://img.shields.io/badge/C++-D3869B?style=flat&logo=cplusplus&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
 </div>
 
 ---
@@ -36,7 +36,8 @@ Fullstack Developer & **AI Engineer** with experience in **enterprise systems, A
 ### Web
 <div align="center" style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center;">
   <img src="https://img.shields.io/badge/Vue-42b883?style=flat&logo=vue.js&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
-  <img src="https://img.shields.io/badge/Next.js-282828?style=flat&logo=nextdotjs&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
+  <img src="https://img.shields.io/badge/Next.js-282828?style=flat&logo=nextdotjs&logoColor=EBDBB2" style="border-radius:6px;height:28px;">
+  <img src="https://img.shields.io/badge/React-83A598?style=flat&logo=react&logoColor=FBF1C7" style="border-radius:6px; height:28px;">
 </div>
 
 ### Mobile
@@ -44,6 +45,7 @@ Fullstack Developer & **AI Engineer** with experience in **enterprise systems, A
   <img src="https://img.shields.io/badge/React_Native-282828?style=flat&logo=react&logoColor=83A598" style="border-radius:6px; height:28px;">
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=EBDBB2" style="border-radius:6px; height:28px;">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=282828" style="border-radius:6px; height:28px;">
+  <img src="https://img.shields.io/badge/Expo-3C3836?style=flat&logo=expo&logoColor=FBF1C7" style="border-radius:6px; height:28px;">
 </div>
 
 ---
