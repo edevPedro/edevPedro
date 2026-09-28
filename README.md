@@ -1,4 +1,4 @@
-### hi — Pedro Elias
+### hi! i am Pedro Elias
 
 Systems / C++ / ML. Backend on Cedro’s OMS.  
 Building under [eDevs](https://edevs.com.br).
