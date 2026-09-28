@@ -3,7 +3,7 @@
 Systems / C++ / ML. Backend on Cedro’s OMS.  
 Building under [eDevs](https://edevs.com.br).
 
-`CS · UNA` · `Physics · UNINTER` · `EN · C1`
+`Computer Science · UNA` · `Physics · UNINTER` · `EN · C1`
 
 <p>
   <a href="https://edevs.com.br/edevs/pedro"><img src="https://img.shields.io/badge/cv-edevs.com.br-1c1c1c?style=flat-square" alt="cv"></a>
