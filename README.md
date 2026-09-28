@@ -1,25 +1,48 @@
-### Pedro Elias
+### hi — Pedro Elias
 
-Systems, C++, ML. Backend on Cedro’s OMS.
+Systems / C++ / ML. Backend on Cedro’s OMS.  
+Building under [eDevs](https://edevs.com.br).
 
-Building things under [eDevs](https://edevs.com.br) — SaaS, study tools, side products.
+`CS · UNA` · `Physics · UNINTER` · `EN · C1`
 
-→ **[cv](https://edevs.com.br/edevs/pedro)** · **[blog](https://edevs.com.br/pedro)** · **[linkedin](https://www.linkedin.com/in/pedro-elias-817298243/)**
+<p>
+  <a href="https://edevs.com.br/edevs/pedro"><img src="https://img.shields.io/badge/cv-edevs.com.br-1c1c1c?style=flat-square" alt="cv"></a>
+  <a href="https://edevs.com.br/pedro"><img src="https://img.shields.io/badge/blog-/pedro-1c1c1c?style=flat-square" alt="blog"></a>
+  <a href="https://www.linkedin.com/in/pedro-elias-817298243/"><img src="https://img.shields.io/badge/linkedin-connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
+</p>
+
+---
+
+**stack**
+
+`C++` `C` `.NET` `Go` `Python` `PyTorch` `NumPy` `Linux`  
+`PostgreSQL` `Redis` `Docker` `TypeScript` `Next.js` `React Native`
+
+<details>
+<summary><b>a bit more</b></summary>
+
+<br>
+
+systems · concurrency · POSIX · signals / FFT · low-latency APIs · Nest.js · Expo
+
+</details>
 
 ---
 
 **now**
-- OMS / trading stack in C++ & .NET
-- linear algebra, signals, small engines
+- OMS / trading paths in C++ & .NET
+- lin alg, signals, tiny runtimes on the side
 
-**pinned-ish**
-- [`linear_algebra`](https://github.com/edevPedro/linear_algebra) — lin alg from scratch (C++)
-- [`lite-orderbook`](https://github.com/edevPedro/lite-orderbook) — tiny multi-order book (C++)
-- [`tiny-engine`](https://github.com/edevPedro/tiny-engine) — C + Lua bindings
-- [`eTensor`](https://github.com/edevPedro/eTensor) — tensor / ML playground
+**toys worth clicking**
+| | |
+|---|---|
+| [linear_algebra](https://github.com/edevPedro/linear_algebra) | lin alg from scratch · C++ |
+| [lite-orderbook](https://github.com/edevPedro/lite-orderbook) | multi-order book · C++ |
+| [tiny-engine](https://github.com/edevPedro/tiny-engine) | C engine + Lua |
+| [eTensor](https://github.com/edevPedro/eTensor) | tensor playground · Python |
 
-**elsewhere**
-- [Ziday](https://ziday.edevs.com.br/) · [Dionise](https://dionise.com.br/) · [eDevs One](https://edevs.com.br/produtos)
+**shipping**
+[Ziday](https://ziday.edevs.com.br/) · [Dionise](https://dionise.com.br/) · [eDevs One](https://edevs.com.br/produtos)
 
 ---
 
