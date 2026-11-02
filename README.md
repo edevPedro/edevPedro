@@ -1,55 +1,41 @@
-### hi! i am Pedro Elias
+# Hi, I'm Pedro
 
-Systems / C++ / ML. Backend on Cedro’s OMS.  
-Building under [eDevs](https://edevs.com.br).
+C++ systems and performance engineering. Professional backend on OMS / financial markets
+(latency, multithreading). Studying Computer Science and Physics.
 
-`Computer Science · UNA` · `Physics · UNINTER` · `EN · C1`
+Building **[edge-mage](https://github.com/edevPedro/edge-mage)** (e-mage) — a TUI journey
+P0→P7 in performance engineering (CPU → SIMD/NEON → HPC → GPU/Metal → Edge AI), with
+**Forge** as the cumulative project and an optional **Neurotech** branch.
 
-<p>
-  <a href="https://edevs.com.br/edevs/pedro"><img src="https://img.shields.io/badge/cv-edevs.com.br-1c1c1c?style=flat-square" alt="cv"></a>
-  <a href="https://edevs.com.br/pedro"><img src="https://img.shields.io/badge/blog-/pedro-1c1c1c?style=flat-square" alt="blog"></a>
-  <a href="https://www.linkedin.com/in/pedro-elias-817298243/"><img src="https://img.shields.io/badge/linkedin-connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
-</p>
+`pt-BR` · also works in English.
 
 ---
 
-**stack**
+### Focus
 
-`C++` `C` `.NET` `Go` `Python` `PyTorch` `NumPy` `Linux`  
-`PostgreSQL` `Redis` `Docker` `TypeScript` `Next.js` `React Native`
+- Performance engineering, computer architecture, SIMD/NEON, GPU/Metal
+- Edge AI / on-device inference, HW/SW co-design (FPGA lite)
+- Embedded (ESP32), BCI / neurotech (optional track)
+- Unix tooling: Vim, tmux, terminals — sober craft, not aesthetics
 
-<details>
-<summary><b>a bit more</b></summary>
+### Stack
 
-<br>
+`C++` · `C` · `Python` · `.NET` · `Go` · `Linux` · `PostgreSQL`
 
-systems · concurrency · POSIX · signals / FFT · low-latency APIs · Nest.js · Expo
+### Selected work
 
-</details>
+| Repo | What |
+|------|------|
+| [edge-mage](https://github.com/edevPedro/edge-mage) | TUI academy: performance → Edge AI (Forge + Neurotech branch) |
+| [lite-orderbook](https://github.com/edevPedro/lite-orderbook) | Multi-order book / OMS sketch in modern C++ |
+| [linear_algebra](https://github.com/edevPedro/linear_algebra) | Linear algebra from scratch (C++) |
+| [tiny-engine](https://github.com/edevPedro/tiny-engine) | Small C engine with Lua bindings |
+| [eTensor](https://github.com/edevPedro/eTensor) | Tensor playground (Python) |
 
----
+### Elsewhere
 
-**now**
-- OMS / trading paths in C++ & .NET
-- lin alg, signals, tiny runtimes on the side
+- Site / CV: [edevs.com.br](https://edevs.com.br/edevs/epedro)
+- Products: [Dionise](https://dionise.com.br/) · [Ziday](https://ziday.edevs.com.br/) · [eDevs](https://edevs.com.br/)
+- LinkedIn: [pedro-elias](https://www.linkedin.com/in/pedro-elias-817298243/)
 
-**toys worth clicking**
-| | |
-|---|---|
-| [linear_algebra](https://github.com/edevPedro/linear_algebra) | lin alg from scratch · C++ |
-| [lite-orderbook](https://github.com/edevPedro/lite-orderbook) | multi-order book · C++ |
-| [tiny-engine](https://github.com/edevPedro/tiny-engine) | C engine + Lua |
-| [eTensor](https://github.com/edevPedro/eTensor) | tensor playground · Python |
-
-**shipping**
-[Ziday](https://ziday.edevs.com.br/) · [Dionise](https://dionise.com.br/) · [eDevs One](https://edevs.com.br/produtos)
-
----
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edevPedro/edevPedro/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edevPedro/edevPedro/output/github-contribution-grid-snake.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/edevPedro/edevPedro/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
+<!-- Keep this README short. No snake animations, badge walls, or stats widgets. -->
