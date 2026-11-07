@@ -5,7 +5,7 @@ o o o    pedro — C++ systems & performance
 ```
 
 Backend engineer for **financial markets**: order management, low latency, multithreading.
-Studying **Computer Science** and **Physics**.
+Bachelor in **Computer Science** and **Physics**.
 
 #### What I work with
 
